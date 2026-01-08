@@ -69,7 +69,7 @@ This dataset can be used for:
 > [!NOTE]
 > - The data is scraped for educational and research purposes.  
 > - Prices and availability may change frequently. Regular updates are recommended.  
-> - Ensure compliance with Greenspoon’s [Terms of Service](https://greenspoon.co.ke) when using this dataset.  
+> - Ensure compliance with Greenspoon’s [Terms of Service](https://greenspoon.co.ke/terms-and-conditions/) when using this dataset.  
 
 ---
 
