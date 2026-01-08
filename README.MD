@@ -7,7 +7,7 @@ The dataset is provided in two formats:
 - **JSON** – Suitable for developers working with APIs, automation scripts, or NoSQL databases.
 - **CSV** – Suitable for analysts using spreadsheets, SQL databases, or data visualization tools.
 
----
+
 
 ## Data Format
 
@@ -31,7 +31,7 @@ product_name,product_url,image_url,price,category,is_in_stock
 Fresh Hass Avocado - 2 Pieces,https://greenspoon.co.ke/product/fresh-hass-avocados,https://greenspoon.co.ke/wp-content/uploads/2025/12/Greenspoon-83-720x480.jpg,KES 199,Fruits & Vegetables,true
 ```
 
----
+
 
 ## Fields
 
@@ -53,7 +53,7 @@ Fresh Hass Avocado - 2 Pieces,https://greenspoon.co.ke/product/fresh-hass-avocad
 * **is_in_stock**
   Boolean value indicating whether the product is available.
 
----
+
 
 ## Usage
 
@@ -64,14 +64,14 @@ This dataset can be used for:
 * Automation workflows and monitoring tools
 * Search, filtering, and category-based queries
 
----
+
 
 > [!NOTE]
 > - The data is scraped for educational and research purposes.  
 > - Prices and availability may change frequently. Regular updates are recommended.  
 > - Ensure compliance with Greenspoon’s [Terms of Service](https://greenspoon.co.ke/terms-and-conditions/) when using this dataset.  
 
----
+
 
 ## Contribution
 
@@ -83,7 +83,7 @@ Contributions are welcome. You may submit pull requests for:
 
 Please open an issue or submit a pull request as appropriate.
 
----
+
 
 ## License
 
