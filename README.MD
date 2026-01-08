@@ -1,4 +1,3 @@
-````markdown
 # Greenspoon Kenya Product Dataset
 
 This repository contains structured product data scraped from [Greenspoon Kenya](https://greenspoon.co.ke), an online grocery and lifestyle store.
@@ -90,5 +89,3 @@ Please open an issue or submit a pull request as appropriate.
 
 This project is licensed under the terms described in the [LICENSE](LICENSE) file.
 
-```
-```
